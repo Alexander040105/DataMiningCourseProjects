@@ -6,3 +6,4 @@ ipykernel
 plotly
 kaleido
 scikit-learn
+statsmodels
